@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/24 19:35:41.000.218,=C:\Users\Thiago Morini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 12:39:24.000.129,=C:\Users\Thiago Morini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 12:39:58.000.682,C:\Users\Thiago Morini\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi\EntityExample\FEntityExample.pas</Transaction>
+    <Transaction>2022/01/20 12:39:58.000.682,C:\Users\Thiago Morini\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Delphi\EntityExample\FEntityExample.dfm</Transaction>
+    <Transaction>2022/01/20 12:40:05.000.613,C:\Users\Thiago Morini\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi\EntityExample\EntityExample.dproj</Transaction>
+    <Transaction>2022/01/20 12:45:27.000.422,=D:\Delphi\EntityExample\Classes\Morini.Excecoes.pas</Transaction>
+    <Transaction>2022/01/20 12:45:27.000.490,=D:\Delphi\EntityExample\Classes\Morini.Field.pas</Transaction>
+    <Transaction>2022/01/20 12:45:27.000.200,=D:\Delphi\EntityExample\Classes\Morini.Atributos.pas</Transaction>
+    <Transaction>2022/01/20 12:45:27.000.336,=D:\Delphi\EntityExample\Classes\Morini.Dados.pas</Transaction>
+    <Transaction>2022/01/20 12:45:27.000.401,=D:\Delphi\EntityExample\Classes\Morini.Entidade.pas</Transaction>
+    <Transaction>2022/01/20 12:45:27.000.561,=D:\Delphi\EntityExample\Classes\Morini.SQL.pas</Transaction>
+    <Transaction>2022/01/20 12:45:42.000.173,=D:\Delphi\EntityExample\Classes\EntityExample\Estados.pas</Transaction>
+    <Transaction>2022/01/20 12:45:44.000.421,=D:\Delphi\EntityExample\Classes\EntityExample\Municipios.pas</Transaction>
+    <Transaction>2022/01/20 12:51:10.000.778,=D:\Delphi\EntityExample\Classes\Morini.Exception.pas</Transaction>
+    <Transaction>2022/01/20 14:05:43.000.400,D:\Delphi\EntityExample\Classes\Morini.Dados.pas=</Transaction>
+    <Transaction>2022/01/20 14:06:10.000.174,=D:\Delphi\EntityExample\Classes\Morini.DB.pas</Transaction>
+    <Transaction>2022/01/20 14:40:05.000.899,D:\Delphi\EntityExample\Classes\Morini.Atributos.pas=</Transaction>
+    <Transaction>2022/01/20 14:40:40.000.277,=D:\Delphi\EntityExample\Classes\Morini.Attributes.pas</Transaction>
+    <Transaction>2022/01/20 14:52:26.000.669,=D:\Delphi\EntityExample\Classes\Morini.DBField.pas</Transaction>
+    <Transaction>2022/01/21 14:29:48.000.965,D:\Delphi\EntityExample\Classes\Morini.Entidade.pas=</Transaction>
+    <Transaction>2022/01/21 14:30:13.000.641,=D:\Delphi\EntityExample\Classes\Morini.Entity.pas</Transaction>
+    <Transaction>2022/01/21 16:05:02.000.777,D:\Delphi\EntityExample\Classes\EntityExample\Estados.pas=</Transaction>
+    <Transaction>2022/01/21 16:05:18.000.600,=D:\Delphi\EntityExample\Classes\EntityExample\State.pas</Transaction>
+    <Transaction>2022/01/21 16:11:34.000.296,D:\Delphi\EntityExample\Classes\EntityExample\Municipios.pas=</Transaction>
+    <Transaction>2022/01/21 16:11:49.000.912,=D:\Delphi\EntityExample\Classes\EntityExample\City.pas</Transaction>
+  </Transactions>
+</BorlandProject>
