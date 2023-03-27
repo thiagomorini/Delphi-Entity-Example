@@ -10,7 +10,7 @@ O Entity Example em Delphi é um framework para persistência de dados que permi
 
 Para usar o Entity Example em sua aplicação Delphi, basta seguir os seguintes passos:
 
-### 1. Crie uma nova classe para representar a sua entidade, utilizando dos marcadores, confirme exemplo na pasta Classes/EntityExample
+1. Crie uma nova classe para representar a sua entidade, utilizando dos marcadores, confirme exemplo na pasta Classes/EntityExample
 
 ```delphi
 type
@@ -47,30 +47,31 @@ type
     property State: TState read FState write FState;
   end;
 ```
-```delphi
-### 2. Use a sua nova classe para acessar os dados e executar os comandos SQL
 
+2. Use a sua nova classe para acessar os dados e executar os comandos SQL
+
+```delphi
 DB.Connection.Connected := True;
 
-    DB.ExecuteSQL(SQL.Delete(City).Where(City.IdCity.Equal(2)).ToText);
+DB.ExecuteSQL(SQL.Delete(City).Where(City.IdCity.Equal(2)).ToText);
 
-    City.IdCity.AsInteger := 2;
-    City.Name.AsString := 'NAME OF THE CITY';
-    City.Save(DB.Connection, acInsert);
+City.IdCity.AsInteger := 2;
+City.Name.AsString := 'NAME OF THE CITY';
+City.Save(DB.Connection, acInsert);
 
-    City.Search(DB.Connection, 2, True);
-    ShowMessage(City.Name.AsString);
+City.Search(DB.Connection, 2, True);
+ShowMessage(City.Name.AsString);
 
-    DB.OpenTable(SQL.Select([City.Name]).From(City).Where([City.IdCity.Equal(1)]).ToText);
+DB.OpenTable(SQL.Select([City.Name]).From(City).Where([City.IdCity.Equal(1)]).ToText);
 ```
 
 ## Contribuição
 
 Você pode contribuir com o Entity Example de várias formas:
 
-### 1. Reportando bugs e problemas no Github.
-### 2. Fazendo pull requests com correções e novas funcionalidades.
-### 3. Compartilhando o projeto e incentivando outros desenvolvedores a usá-lo.
+1. Reportando bugs e problemas no Github.
+2. Fazendo pull requests com correções e novas funcionalidades.
+3. Compartilhando o projeto e incentivando outros desenvolvedores a usá-lo.
 
 ## Licença
 O Entity Example é distribuído sob a licença MIT. Veja o arquivo LICENSE.md para mais informações.
