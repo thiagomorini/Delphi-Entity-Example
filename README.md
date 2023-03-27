@@ -82,7 +82,7 @@ Você pode contribuir com o Entity Example de várias formas:
 3. Compartilhando o projeto e incentivando outros desenvolvedores a usá-lo.
 
 ## Licença
-O Entity Example é distribuído sob a licença MIT. Veja o arquivo LICENSE.md para mais informações.
+O Entity Example é distribuído sob a licença MIT.
 
 ## Contato
 Você pode entrar em contato comigo sempre que tiver alguma dúvida ou sugestão de melhorias. Lembrando que esse projeto é apenas uma brincadeira e está incompleto, mas já é um ótimo ponto de partida para novas implementações.
