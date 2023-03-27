@@ -6,6 +6,14 @@ Este é um exemplo de um Entity Framework em Delphi. Eu criei durante o meu temp
 
 O Entity Example em Delphi é um framework para persistência de dados que permite mapear entidades de banco de dados para objetos em sua aplicação Delphi. Com ele, você pode trabalhar com bancos de dados relacionais sem precisar escrever código SQL. No momento apenas em SQL Server.
 
+## Tecnologias utilizadas
+
+- Delphi 10.1 Berlin Update 1
+- Componentes FireDAC (TFDConnection, TFDTransaction, TFDQuery)
+- Marcações (TCustomAttribute)
+- Class operators
+- RTTI - para a leitura das propriedades (TRttiContext, TRttiType, TRttiProperty, TRttiInstanceType)
+
 ## Como usar
 
 Para usar o Entity Example em sua aplicação Delphi, basta seguir os seguintes passos:
